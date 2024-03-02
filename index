@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<p>Click on the image to download it:<p>
-<a href="/images/myw3schoolsimage.jpg" download>
+<p>Click on the image to download it:</p>
+<a href="Schnucks_form.pdf" download>
   <img alt="Schnucks_form" width="104" height="142">
 </a>
 
