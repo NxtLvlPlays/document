@@ -2,7 +2,10 @@
 <html>
 <body>
 
-
+<p>Click on the link to download it:</p>
+<a href="Schnucks_form.pdf" download>
+  <img alt="Schnucks_form" width="104" height="142">
+</a>
 
 </body>
 </html>
